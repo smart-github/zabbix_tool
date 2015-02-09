@@ -39,3 +39,5 @@ url='https://zabbix-dev.example.com/'
 
 The "zabbix" section is the default used by the scripts, though you can
 specify the section to use on the command line.
+
+
